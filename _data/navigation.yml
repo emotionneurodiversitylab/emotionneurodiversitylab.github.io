@@ -2,7 +2,10 @@
 main:
   - title: "People"
     url: /people/
-
+    
+  - title: "Research"
+    url: /research/
+    
   - title: "Publications"
     url: /publications/
 

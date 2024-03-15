@@ -6,7 +6,7 @@ author_profile: true
 ---
   
 ### Social" or "Emotional"?
-<img align="right" src="m1_jess_montage.png" width="500 px" style="padding: 10px">
+<img align="right" src="https://emotionneurodiversitylab.github.io/images/m1_jess_montage.png" width="500 px" style="padding: 10px">
 Many families of neurotypical and neurodivergent children wonder if their child's social challenges could be related to anxiety, depression, or differences in social communication abilities.  The NIH-funded Adolescent Communication of Emotion Study (ACES) is a collaboration between scientists at CHOP, Penn, and the Baylor College of Medicine (Eric Storch, PhD) that seeks to develop new measures that can track similarities and differences between social and emotional challenges. Unlike most traditional measures that rely on self or parent report, this study uses cutting-edge computer vision and computational linguististics to characterize live social interactions in terms of social and emotional content.  In addition to developing new measures, this grant is designed to answer basic questions about the extent to which what we think of as "social" and "emotional" constructs are actually different from one another - which may in turn influence how we define autism in the future.  This study is currently enrolling 12 to 17 year-olds with and without mental health concerns (i.e., autism, anxiety, and depression).  <a href="https://www.research.chop.edu/adolescent-communication-of-emotion-study-aces">Click here</a> if you would like more information about participating.
 <br>
 <br>

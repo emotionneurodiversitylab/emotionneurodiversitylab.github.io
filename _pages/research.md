@@ -12,7 +12,7 @@ Many families of neurotypical and neurodivergent children wonder if their child'
 <br>
 
 ### Waves of Emotion
-<img align="left" src="qrs.png" width="300 px" style="padding: 10px">
+<img align="left" src="https://emotionneurodiversitylab.github.io/images/qrs.png" width="300 px" style="padding: 10px">
 Most children experience an ever-changing repertoire of emotions.  It is therefore surprising how little we know about how much emotion variability is typical for a school-age child, and whether this might be different for neurodivergent children.  The Eagles Autism Variability of Emotion (EAVE) study, funded by the Philadelphia Eagles Autism Foundation, uses techniques from psychophysiology, computer vision, and experience sampling to track variability in emotional experiences among autistic children and adolescents.  The goal of this research is to identify the extent to which emotions are variable across time and contexts (in the lab, and at home).
 <br><br><br><br>
 
@@ -21,5 +21,5 @@ Computer vision, machine learning, and artificial intelligence are providing exc
 <br>
 
 ### The Cognitive Neuroscience of Emotion in Autism
-<img align="left" src="ss1.png" width="400 px" style="padding: 20px">
+<img align="left" src="https://emotionneurodiversitylab.github.io/images/ss1.png" width="400 px" style="padding: 20px">
 Decades of cognitive neuroscience research have identified brain structures and networks that are related to the core features of autism.  However, many of these same structures and networks have also been associated with mood and anxiety disorders (for example, amygdala and portions of prefrontal cortex).  By identifying unique and overlapping neural signals of autism, anxiety, and depression, we may not only come up with a clearer picture of the etiology of autism, but also better understand the extent to which emotion processes ought to be considered fundamental to the autism diagnosis itself.

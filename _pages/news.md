@@ -22,7 +22,7 @@ Today we participated in a resource fair for Philadelphia students at the Aspira
 ## 2023: May 5th - May 9th
 ### ENL at INSAR in Stockholm, Sweden
 <img align="center" src="/images/stockholm_montage.png" width="500 px" style="padding: 10px">
-<img align="center" src="stockholm_montage_casey_jess.png" width="400 px" style="padding: 10px">
+<img align="center" src="/images/stockholm_montage_casey_jess.png" width="400 px" style="padding: 10px">
 <br>
 ENL made a field trip to the annual meeting of the International Society for Autism Research (INSAR).  Jess, Calli, and Yvonne presented on emerging results on the elicitation of valenced facial expressions in autism, and on the ages at which neurodivergent children are diagnosed and captured by CHOP's Electronic Medical Health record.  Congrats for some fantastic presentations!
 <br>

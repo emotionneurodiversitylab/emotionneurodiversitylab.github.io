@@ -7,7 +7,7 @@ author_profile: true
   
 ## 2024: February 2nd
 ### New Editorial American Journal of Bioethics
-<img align="right" src="kkq_herrington_storch_ajb_banner.png" width="500 px" style="padding: 10px">
+<img align="right" src="images/kkq_herrington_storch_ajb_banner.png" width="500 px" style="padding: 10px">
 We're excited to have a new commentary in the Americal Journal of Bioethics focused on the ethics of digital phenotyping.  This paper focuses on how novel digital phenotyping measures represent an opportunity to invite patients and clients into a conversation about to use their clinical data.
 <br>
 <hr>

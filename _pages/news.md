@@ -7,7 +7,7 @@ author_profile: true
 
 ## 2024: May 10th
 ### Presentation at INSAR's Annual Meeting in Melbourne, Australia"
-<img align="right" src="/images/yu_insar2024.png" height="300 px" style="padding: 10px">
+<img align="right" src="/images/yu_insar2024.png" height="200 px" style="padding: 10px">
 At this year's meeting of the International Society for Autism Research, lab member Yvonne Yu presented her emerging work how the field's gold-standard instrument for measuring autism diagnostic characteristics shows different item-level function based on race and gender.  We're excited to join a growing team of scientists who are examing the extent to which race, ethnicity, and gender can influence how a child is rated on widely used autism assessments.
 <br>
 <hr>

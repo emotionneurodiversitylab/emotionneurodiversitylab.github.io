@@ -11,12 +11,15 @@ author_profile: true
 At this year's meeting of the International Society for Autism Research, lab member Yvonne Yu presented her emerging work how the field's gold-standard instrument for measuring autism diagnostic characteristics shows different item-level function based on race and gender.  We're excited to join a growing team of scientists who are examing the extent to which race, ethnicity, and gender can influence how a child is rated on widely used autism assessments.
 <br>
 <br>
+<br>
 <hr>
 
 ## 2024: April 21th
 ### ENL at the Philadelphia Eagles Stadium for "Huddle-Up for Autism"
 <img align="right" src="/images/enl_huddleup2024.png" height="200 px" style="padding: 10px">
 Every year we join Philadelphia-area organizations at Lincoln Financial Field to share our autism research and resources, and provide a fun day of family activities.  This year's was one for the record books!
+<br>
+<br>
 <br>
 <hr>
 

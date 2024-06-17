@@ -10,6 +10,14 @@ author_profile: true
 ---
 Kostick-Quenet, K.M., Herrington, J.D., & Storch, E.A. (2024). Personalized Roadmaps for Returning Results From Digital Phenotyping. *The American Journal of Bioethics*, *24*(2), 102-105.
 
+Hurley, M. E., Sonig, A., Herrington, J., Storch, E. A., Lázaro-Muñoz, G., Blumenthal-Barby, J., & Kostick-Quenet, K. (2024). Ethical considerations for integrating multimodal computer perception and neurotechnology. *Frontiers in Human Neuroscience, 18*, 1332451. 
+
+Cooper, M., Connor, C., Orloff, N., Herrington, J. D., & Timko, C. A. (In press). Therapeutic Alliance in Family-Based Treatment of Anorexia Nervosa. *Clinical Psychology & Psychotherapy*.
+
+Hocking, M. C., Schultz, R. T., Yerys, B. E., Minturn, J. E., Fantozzi, P., & Herrington, J. D. (In press). White Matter Connectivity and Social Functioning in Survivors of Pediatric Brain Tumor Survivors. *Journal of Neuro-Oncology*.
+
+Waller, R., Flum, M., Perkins, E. R., Rodriguez, Y., Knox, A., Pelella, M. R., Jones, C., Sun, S., Denham, S. A., Herrington, J. D., & Parish-Morris, J. (In press). Objective Linguistic Markers Associated with Callous-Unemotional Traits in Early Childhood. *Research on Child and Adolescent Psychopathology*.
+
 2023
 ---
 ---

@@ -5,6 +5,47 @@ permalink: /news/
 author_profile: true
 ---
 
+## 2024: June 8th
+### New Research: Autism
+<img align="right" src="/images/enl_you_should_smile_more_cover.png" height="200 px" style="padding: 10px">
+I am thrilled to share our latest publication in the journal Autism, on facial expressiveness among autistic females and males. This work highlights the need for increased research on how autism may appear differently among females - and how this might impact our fundamental understanding of autism.
+<br>
+<br>
+<br>
+<br>
+<hr>
+
+
+## 2024: June 8th
+### New Publication: NPP—Digital Psychiatry and Neuroscience 
+<img align="right" src="/images/enl_sonig_what_patients_cover.png" height="200 px" style="padding: 10px">
+This paper covers several topics of among adolescents with mental health concerns, and their caregivers, related to the development of emerging digital phenotyping technogies.  It also provides a list of questions that may be useful for patient and caregivers in thier interactions with service providers who introduce these technologies to clinical care.
+<br>
+<br>
+<br>
+<br>
+<hr>
+
+## 2024: September 9th
+### New Publication: AI and Ethics
+<img align="right" src="/images/enl_sonig_ethical_concerns_cover.png" height="200 px" style="padding: 10px">
+Our latest paper in AI and Ethics includes an in-depth examination of the reluctance many carry about the intrusiveness and security risks of emerging digital phenotyping technologies.  Our hope is that this and upcoming articles on this topic will drive home the need for clinicians to open up dialogues with the people they serve regarding the advantages and risks	of these technologies in the provision of care.
+<br>
+<br>
+<br>
+<br>
+<hr>
+
+## 2024: June 8th
+### New Research Publication: Research on Child and Adolescent Psychopathology
+<img align="right" src="/images/enl_waller_cover.png" height="200 px" style="padding: 10px">
+Congrats to Becky Waller and our team for our new paper on the identification of emotion word patterns that	signal a risk for the development of Callous/Unemotional traits	in young chidren.
+<br>
+<br>
+<br>
+<br>
+<hr>
+
 ## 2024: May 10th
 ### Presentation at INSAR's Annual Meeting in Melbourne, Australia
 <img align="right" src="/images/yu_insar2024.png" height="200 px" style="padding: 10px">
@@ -28,7 +69,7 @@ Every year we join Philadelphia-area organizations at Lincoln Financial Field to
 <hr>
 
 ## 2024: February 2nd
-### New Editorial American Journal of Bioethics
+### New Editorial: American Journal of Bioethics
 <img align="right" src="/images/kkq_herrington_storch_ajb_banner.png" width="500 px" style="padding: 10px">
 We're excited to have a new commentary in the Americal Journal of Bioethics focused on the ethics of digital phenotyping.  This paper focuses on how novel digital phenotyping measures represent an opportunity to invite patients and clients into a conversation about to use their clinical data.
 <br>

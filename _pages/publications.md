@@ -8,15 +8,25 @@ author_profile: true
 2024
 ---
 ---
-Kostick-Quenet, K.M., Herrington, J.D., & Storch, E.A. (2024). Personalized Roadmaps for Returning Results From Digital Phenotyping. *The American Journal of Bioethics*, *24*(2), 102-105.
+Cooper, Marita, Chloe Connor, Natalia Orloff, John D. Herrington, and C. Alix Timko (2024). Therapeutic Alliance in Family‐Based Treatment of Anorexia Nervosa: In‐Person Versus Telehealth. *Clinical Psychology & Psychotherapy*,*31*(3): e3017.
 
-Hurley, M. E., Sonig, A., Herrington, J., Storch, E. A., Lázaro-Muñoz, G., Blumenthal-Barby, J., & Kostick-Quenet, K. (2024). Ethical considerations for integrating multimodal computer perception and neurotechnology. *Frontiers in Human Neuroscience, 18*, 1332451. 
+Fantozzi, Peter M., Ashley Anil, Sean McHugh, Alannah R. Srsich, Manali Zope, Julia Parish-Morris, Robert T. Schultz, John Herrington, and Matthew C. Hocking (2024). *Social Impairment in Survivors of Pediatric Brain Tumors via Reduced Social Attention and Emotion-Specific Facial Expression Recognition.= *Pediatric Blood & Cancer*, *71*(6): e30943.
 
-Cooper, M., Connor, C., Orloff, N., Herrington, J. D., & Timko, C. A. (In press). Therapeutic Alliance in Family-Based Treatment of Anorexia Nervosa. *Clinical Psychology & Psychotherapy*.
+Finkel, Emma, Eric Sah, McKenna Spaulding, John D. Herrington, Liza Tomczuk, Aaron Masino, Xueqin Pang, et al. (2024). Physiological and Communicative Emotional Disconcordance in Children on the Autism Spectrum. *Journal of Neurodevelopmental Disorders*, *16*(1): 51.
 
-Hocking, M. C., Schultz, R. T., Yerys, B. E., Minturn, J. E., Fantozzi, P., & Herrington, J. D. (In press). White Matter Connectivity and Social Functioning in Survivors of Pediatric Brain Tumor Survivors. *Journal of Neuro-Oncology*.
+Hocking, Matthew C., Robert T. Schultz, Benjamin E. Yerys, Jane E. Minturn, Peter Fantozzi, and John D. Herrington (2024). White Matter Connectivity and Social Functioning in Survivors of Pediatric Brain Tumor. *Journal of Neuro-Oncology*, *169*(2): 247–56.
 
-Waller, R., Flum, M., Perkins, E. R., Rodriguez, Y., Knox, A., Pelella, M. R., Jones, C., Sun, S., Denham, S. A., Herrington, J. D., & Parish-Morris, J. (In press). Objective Linguistic Markers Associated with Callous-Unemotional Traits in Early Childhood. *Research on Child and Adolescent Psychopathology*.
+Hurley, Meghan E., Anika Sonig, John Herrington, Eric A. Storch, Gabriel Lázaro-Muñoz, Jennifer Blumenthal-Barby, and Kristin Kostick-Quenet (2024). Ethical Considerations for Integrating Multimodal Computer Perception and Neurotechnology. *Frontiers in Human Neuroscience*, *18*,:1332451.
+
+Kostick-Quenet, Kristin Marie, John Herrington, and Eric A. Storch (2024). Personalized Roadmaps for Returning Results From Digital Phenotyping. *The American Journal of Bioethics*, *24*(2): 102–5.
+
+Sonig, Anika, Christine Deeney, Meghan E. Hurley, Eric A. Storch, John Herrington, Gabriel Lázaro-Muñoz, Casey J. Zampella, et al. (2024). What Patients and Caregivers Want to Know When Consenting to the Use of Digital Behavioral Markers. *NPP—Digital Psychiatry and Neuroscience*, *2*(1): 1–15.
+
+Sonig, Anika, Christine Deeney, Meghan Hurley, Eric Storch, John Herrington, Gabriel Lázaro-Muñoz, Casey Zampella, et al. (2024). Ethical Concerns of Using Computer Perception Technologies among Pediatric Patients. *AI and Ethics*.
+
+Waller, R., M. Flum, Y. Paz, E. R. Perkins, Y. Rodriguez, A. Knox, M.R. Pelella, et al. (2024). Objective Linguistic Markers Associated with Callous-Unemotional Traits in Early Childhood. *Research on Child and Adolescent Psychopathology*, *52*(10): 1565–76.
+
+Zampella, Casey J, Julia Parish-Morris, Jessica Foy, Meredith Cola, Robert T Schultz, and John D Herrington (2024). ‘You Should Smile More’: Population-Level Sex Differences in Smiling Also Exist in Autistic People. *Autism*.
 
 2023
 ---

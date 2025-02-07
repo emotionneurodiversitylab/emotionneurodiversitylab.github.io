@@ -10,19 +10,12 @@ author_profile: true
 <img align="right" src="/images/enl_you_should_smile_more_cover.png" height="200 px" style="padding: 10px">
 I am thrilled to share our latest publication in the journal Autism, on facial expressiveness among autistic females and males. This work highlights the need for increased research on how autism may appear differently among females - and how this might impact our fundamental understanding of autism.
 <br>
-<br>
-<br>
-<br>
 <hr>
-
 
 ## 2024: June 8th
 ### New Publication: NPP—Digital Psychiatry and Neuroscience 
 <img align="right" src="/images/enl_sonig_what_patients_cover.png" height="200 px" style="padding: 10px">
 This paper covers several topics of among adolescents with mental health concerns, and their caregivers, related to the development of emerging digital phenotyping technogies.  It also provides a list of questions that may be useful for patient and caregivers in thier interactions with service providers who introduce these technologies to clinical care.
-<br>
-<br>
-<br>
 <br>
 <hr>
 
@@ -30,9 +23,6 @@ This paper covers several topics of among adolescents with mental health concern
 ### New Publication: AI and Ethics
 <img align="right" src="/images/enl_sonig_ethical_concerns_cover.png" height="200 px" style="padding: 10px">
 Our latest paper in AI and Ethics includes an in-depth examination of the reluctance many carry about the intrusiveness and security risks of emerging digital phenotyping technologies.  Our hope is that this and upcoming articles on this topic will drive home the need for clinicians to open up dialogues with the people they serve regarding the advantages and risks	of these technologies in the provision of care.
-<br>
-<br>
-<br>
 <br>
 <hr>
 

@@ -5,6 +5,41 @@ permalink: /publications/
 author_profile: true
 ---
 
+2026
+---
+---
+Lee, R. E., Kim, C. J., Faulk, C. J., Premaratne, D., Yu, Y. Y., Greenberg, R., Lyons, M., Foy, J., Tan, S. X. L., Garcia, A. C., Qi, T., Messerli, M., Zhou, R. J., Barron, C. E., Steinbeck, L. K., Zampella, C. J., Berry, L. N., Kochel, R. P., Wiese, A. D., Parish-Morris, J., Herrington, J. D., & Storch, E. A. (2026). Affective Computing in Youth Psychopathology: Protocol for the Adolescent Communication of Emotions Study. *Personalized Medicine in Psychiatry*, *55*, 100181.
+
+Kostick-Quenet, K. M., Hurley, M. E., Ayaz, S., Herrington, J. D., Zampella, C. J., Parish-Morris, J., Tunç, B., Lázaro-Muñoz, G., Blumenthal-Barby, J., & Storch, E. A. (2026). Stakeholder Perspectives on Humanistic Implementation of Computer Perception in Health Care: Qualitative Study. *JMIR Mental Health*, *13*(1), e79182.
+
+Kostick-Quenet, K. M., Hurley, M., Herrington, J., & Storch, E. A. (2026). Rethinking Ethics for an Era of Trusted Computational Tools. *Psychiatric Clinics*, *49*(2), 235–250.
+
+Mandal, A. S., Shinohara, R. T., Jung, B., Gardner, M., Akouri, H. E., Yerys, B. E., Low, K. J., Cole, T. J., Guthrie, W., Janke, K. M., Herrington, J. D., Hocking, M. C., Ball, G., Payne, J. M., North, K. N., Muhlert, N., Garg, S., Seidlitz, J., Fisher, M. J., & Alexander-Bloch, A. F. (2026). NF1-Specific Growth Charts for Head Circumference Over the First 3 Years of Life. *Neurology*, *106*(2), e214480.
+
+Pallathra, A. A., Rankin, J. A., Day-Watkins, J., Calkins, M. E., Maddox, B. B., Miller, J. S., Parish-Morris, J., Herrington, J. D., Kangovi, S., Tomlinson, R., Rasty, R., Garuda, R., Creed, T. A., Kerns, C. M., Kuschner, E. S., Bilker, W. B., Handy, F., Connell, J. E., Dichter, G. S., … Brodkin, E. S. (2026). Training to understand and navigate emotions and interactions (TUNE In): A novel program to support social functioning in adults on the autism spectrum. *Research in Autism*, *131*, 202770.
+
+Perkins, E. R., Flum, M. W., Plate, R. C., Parish-Morris, J., Herrington, J. D., Joyner, K. J., & Waller, R. (2026). Stop Right Now, Thank You Very Much: Psychopathic Traits, Externalizing Dimensions, and Interpersonal Proximity. *Journal of Personality Disorders*, *40*(2), 166–180.
+Plate, R. C., Flum, M., Paz, Y., Perkins, E. R., Rodriguez, Y., Herrington, J., Parish-Morris, J., & Waller, R. (2026). Detecting social cues conveyed by laughter and associations with callous-unemotional traits in early childhood. *Journal of Experimental Child Psychology*, *262*, 106395.
+
+Tseng, W.-L., Bellaert, N., Benton, T. D., Brotman, M. A., Evans, S. C., Herrington, J. D., Jha, M. K., Lansford, J. E., Linke, J. O., Michalska, K. J., Naim, R., Orri, M., Silver, J., Stringaris, A., Sugaya, L. S., Vidal-Ribas, P., & Leibenluft, E. (2026). Cross-Cultural Consortium on Irritability (C3I): An International Network for Research on Cultural Similarities and Differences in Irritability. *JAACAP Open*, *4*(1), 184–197.
+
+Yankowitz, L. D., Pargi, M. K., DeJardin, E., Zampella, C. J., Guthrie, W., Pandey, J., Keith Bartley, G., Chen, D., McDonald, D. Q., Manakiwala, A., Khanna, M., Keen, K., Buboltz, G., Yang, A., Herrington, J. D., Sariyanidi, E., Schultz, R. T., & Tunç, B. (2026). Automatic measurement of social gaze during naturalistic conversations in autism. *Journal of Psychiatric Research*, *200*, 93–102.
+
+Yankowitz, L. D., Zampella, C. J., Pandey, J., Bartley, G. K., Parish-Morris, J., Brodkin, E. S., Herrington, J. D., Tunç, B., Schultz, R. T., & Sariyanidi, E. (2026). A transdiagnostic AI-based measure of interpersonal coordination in autism and other conditions. *Molecular Autism*, *17*(1), 17–27.
+
+Yu, Y. Y., Wyman, A., Faulk, C. J., Fulop, L. J., Greenberg, R. L., Benecke, R. M., Steinbeck, L. K., Foy, J., Kim, C., Emory, G. O., Fox, E., Storch, E. A., Zampella, C. J., Yerys, B. E., Schultz, R. T., Parish-Morris, J., Herrington, J. D., & Clements, C. C. (In Press). The Under-Identification of Autism in Females: A Review and Analysis of Sex-Based Scoring Differences Observed in Autism Diagnostic Observation Schedule (ADOS) Module 3. *Journal of Autism and Developmental Disorders*.
+
+Yu, Y. Y., Wyman, A., Faulk, C. J., Fulop, L. J., Greenberg, R. L., Benecke, R. M., Steinbeck, L. K., Foy, J., Kim, C., Emory, G. O., Storch, E. A., Zampella, C. J., Yerys, B. E., Schultz, R. T., Parish‐Morris, J., Herrington, J. D., & Clements, C. C. (2026). An Examination of Racial Bias in Scoring the Autism Diagnostic Observation Schedule (ADOS) Module 3: An Item Response Theory Analysis. *Autism Research*, *19*(2), e70155. 
+
+2025
+---
+---
+Sonig, A., Deeney, C., Hurley, M., Storch, E., Herrington, J., Lázaro-Muñoz, G., Zampella, C., Tunc, B., Parish-Morris, J., Blumenthal-Barby, J., & Kostick-Quenet, K. (2025). Ethical concerns of using computer perception technologies among pediatric patients. *AI and Ethics*, *5*(4), 3593–3607.
+
+Spackman, E., Chetcuti, L., Baker, E. K., Ferguson, E. F., Yerys, B. E., Herrington, J. D., Frazier, T. W., Leekam, S. R., Hardan, A. Y., Harrington, J. W., & Uljarević, M. (2025). Transdiagnostic Examination of Interrelationships Between Anxiety, Insistence on Sameness and Compulsions. *Autism Research*, *18*(10), 1991–1998.
+
+Zampella, C. J., Parish-Morris, J., Foy, J., Cola, M., Schultz, R. T., & Herrington, J. D. (2025). “You should smile more”: Population-level sex differences in smiling also exist in autistic people. *Autism*, *29*(5), 1236–1245.
+
 2024
 ---
 ---
